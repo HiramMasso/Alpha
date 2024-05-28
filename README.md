@@ -1,25 +1,12 @@
-# Usuario Alpha(Hiram masso)
-- [X] Alfa
+# Usuario Delta(Hiram masso)
+- [ ] Alfa
 - [ ] Bravo 
 - [ ] Charlie
-- [ ] Delta
-- [ ] Echo
-
-- [X] Feature
-- [ ] Hotfix
-- [ ] Refactor
-- [ ] Performance
-- [ ] Testing
-
-# Usuario Bravo(Wolfang garcia)
-- [ ] Alfa
-- [X] Bravo 
-- [ ] Charlie
-- [ ] Delta
+- [x] Delta
 - [ ] Echo
 
 - [ ] Feature
-- [X] Hotfix
+- [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
 - [ ] Testing
